@@ -20,7 +20,6 @@ namespace CoversioneNumeri
     /// </summary>
     public partial class MainWindow : Window
     {
-        private string numero;
 
         public MainWindow()
         {
